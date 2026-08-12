@@ -1,6 +1,3 @@
-function area_of_cicle(r){
-    pi = 3.14
-    return area = pi * r * r
-}
-
-console.log(area_of_cicle(5))
+console.log("Name: Emmanuel Ezenwoko")
+console.log("age: 16")
+console.log("Favorite Programming Language: Python")
